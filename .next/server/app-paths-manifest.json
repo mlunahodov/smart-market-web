@@ -1,0 +1,8 @@
+{
+  "/estoque/page": "app/estoque/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/setor/form/page": "app/setor/form/page.js",
+  "/setor/page": "app/setor/page.js",
+  "/vendas/page": "app/vendas/page.js"
+}
